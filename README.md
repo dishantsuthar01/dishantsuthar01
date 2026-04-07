@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/dishantsuthar01" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/dishantsuthar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/dishantcodes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 - 🎓 MCA Student from **Gujarat, India**
 - 💻 Learning **Frontend Development** with focus on clean UI
 - 🌱 Currently improving my **JavaScript** skills
-- 🚀 Sharing my **daily learning journey** on Twitter
+- 🚀 Sharing my **daily learning journey** on Twitter / LinkedIn
 
 ---
 
@@ -48,6 +48,6 @@
 
 > "The secret of getting ahead is getting started."
 
-I post my **daily learning updates** on Twitter / LinkedIn — follow along! 👇  
-[@dishantsuthar01](https://twitter.com/dishantsuthar01)
+I post my **daily learning updates** on LinkedIn / Twitter — follow along! 👇  
 [@dishantsuthar](https://www.linkedin.com/in/dishantsuthar/)
+[@dishantsuthar01](https://twitter.com/dishantcodes)
