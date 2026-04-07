@@ -22,7 +22,6 @@
 - 💻 Learning **Frontend Development** with focus on clean UI
 - 🌱 Currently improving my **JavaScript** skills
 - 🚀 Sharing my **daily learning journey** on Twitter
-- 🤝 Open to **internships & collaborations**
 
 ---
 
