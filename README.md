@@ -50,4 +50,4 @@
 
 I post my **daily learning updates** on Twitter / LinkedIn — follow along! 👇  
 [@dishantsuthar01](https://twitter.com/dishantsuthar01)
-[@dishantsuthar](https://linkedin.com/dishantsuthar)
+[@dishantsuthar](https://www.linkedin.com/in/dishantsuthar/)
