@@ -48,11 +48,6 @@
 
 > "The secret of getting ahead is getting started."
 
-I post my **daily learning updates** on Twitter — follow along! 👇  
+I post my **daily learning updates** on Twitter / LinkedIn — follow along! 👇  
 [@dishantsuthar01](https://twitter.com/dishantsuthar01)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dishantsuthar01&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+[@dishantsuthar](https://linkedin.com/dishantsuthar)
